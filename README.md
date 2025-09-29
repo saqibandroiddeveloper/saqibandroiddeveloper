@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqibandroiddeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="saqibandroiddeveloper" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Compose Multi-Platform**
 
 - 📫 How to reach me **m.saqib.personal007@gmail.com**
 
